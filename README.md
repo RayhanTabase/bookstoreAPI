@@ -1,2 +1,2 @@
 # bookstoreAPI
-A Mongo DB API allowing CRUD operations for a todo list application
+A Mongo DB API allowing to add, remove, edit books
